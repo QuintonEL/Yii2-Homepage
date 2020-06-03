@@ -45,7 +45,7 @@ $this->title = 'Stabl';
                     ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
                     fugiat nulla pariatur.</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">I don't believe you &raquo;</a></p>
+                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">No Way &raquo;</a></p>
             </div>
         </div>
 

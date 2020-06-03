@@ -10,33 +10,54 @@ body {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color:#ec4066;
-    font-family: "Lexend Tera", sans-serif;
+  color: #ec4066;
+  font-family: "Lexend Tera", sans-serif;
 }
 
 .navbar-brand {
-    color:#ec4066 !important;
-    font-family: "Lexend Tera", sans-serif;
+  color: #ec4066 !important;
+  font-family: "Lexend Tera", sans-serif;
 }
 
 .btn-default {
-    color: #fff;
-    background-color: transparent;
-    border-color: black;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  color: #fff;
+  background-color: transparent;
+  border-color: black;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 20px;
 }
 
 .btn-default:hover {
-    background-color:black;
-    border-color: black;
+  background-color: black;
+  border-color: black;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: transparent;
+  border-color: black;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-primary:hover {
+  background-color: black;
+  border-color: black;
+}
+
+.about {
+  color: #fff;
+}
+
+.site-login {
+  color: #fff;
 }
 
 .yii-debug-toolbar_position_bottom {
-    display: none !important;
+  display: none !important;
 }
 
 .paragraphs {
-    color: #fff;
+  color: #fff;
 }
 
 .wrap {
