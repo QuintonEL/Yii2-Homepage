@@ -7,7 +7,9 @@ use yii\helpers\Html;
 $this->title = 'About';
 // $this->params['breadcrumbs'][] = $this->title;
 ?>
+
 <div class="site-about">
+
     <h1 class='about'><?= Html::encode($this->title) ?></h1>
 
     <p class='about'>
