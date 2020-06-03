@@ -16,6 +16,8 @@ AppAsset::register($this);
 <!DOCTYPE html>
 <html lang="<?= Yii::$app->language ?>">
 <head>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Tera&display=swap" rel="stylesheet">
+    <!-- <link rel="icon" type="image/png" href="logo.png"  /> -->
     <meta charset="<?= Yii::$app->charset ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,6 +31,7 @@ AppAsset::register($this);
 <div class="wrap">
     <?php
     NavBar::begin([
+        // 'brandLabel' => '<img src="logo.png" style="display:inline; class="img-responsive"/>Stabl',
         'brandLabel' => Yii::$app->name,
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
