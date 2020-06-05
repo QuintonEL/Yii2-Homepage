@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Home]()
+![Home](https://github.com/QuintonEL/Yii2-Homepage/blob/master/docs/Yii2-home.png?raw=true)
 
 
 
